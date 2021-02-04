@@ -1,0 +1,12 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "Bunch of catas from Codewars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "b.bombelka@gmail.com",
+  "license": "ISC",
+  "dependencies": {}
+}
